@@ -1,0 +1,5 @@
+{{#user}}
+Name: Jaee
+Skills:Django,Flak,Web Scraping,Python
+Email:jaeebawdekar2511@gmail.com 
+{{/user}}
